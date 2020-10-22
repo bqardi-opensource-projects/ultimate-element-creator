@@ -1,4 +1,4 @@
-// spread syntax 
+// spread syntax ...
 function createElement(tag, ...attributes){
     if(!tag){
         console.error("tag is mandatory");
