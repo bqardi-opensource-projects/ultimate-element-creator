@@ -1,7 +1,7 @@
 // spread syntax ...
 function createElement(tag, ...attributes){
     if(!tag){
-        console.error("tag is mandatory");
+        console.error(`The argument "tag" is mandatory! Examples: "div", "header", "img", "p".`);
         return;    
     }
     var element = document.createElement(tag);
