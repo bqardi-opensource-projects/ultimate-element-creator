@@ -1,6 +1,6 @@
 {
   "name": "ultimate-element-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create advanced elements with tag name, class name, id and attributes.",
   "main": "index.js",
   "scripts": {
