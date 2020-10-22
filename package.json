@@ -1,0 +1,27 @@
+{
+  "name": "ultimate-element-creator",
+  "version": "1.0.0",
+  "description": "Create advanced elements with tag name, class name, id and attributes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqardi-opensource-projects/ultimate-element-creator.git"
+  },
+  "keywords": [
+    "element",
+    "create",
+    "tag",
+    "class",
+    "id",
+    "attribute"
+  ],
+  "author": "Sune & Silviu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bqardi-opensource-projects/ultimate-element-creator/issues"
+  },
+  "homepage": "https://github.com/bqardi-opensource-projects/ultimate-element-creator#readme"
+}
