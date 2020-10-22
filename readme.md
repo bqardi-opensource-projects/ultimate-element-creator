@@ -10,7 +10,7 @@ This way, you can create as many attributes as you like.
 #### To import into your project:
 Place this line of code at the top of your JavaScript file:
 ```javascript
-import createElement from "https://unpkg.com/@bqardi/ultimate-element-creator@1.0.0/index.js";
+import createElement from "https://unpkg.com/@bqardi/ultimate-element-creator@1.0.1/index.js";
 ```
 
 Then you can call the function `createElement()` when you need it:
